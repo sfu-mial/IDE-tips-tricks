@@ -47,6 +47,13 @@ https://github.com/github-copilot/chat_waitlist_signup/join
 #### Copilot extension in VSCode
 https://marketplace.visualstudio.com/items?itemName=GitHub.copilot
 
+### VSCode -> Container
+Run your code in a container:
+https://code.visualstudio.com/docs/devcontainers/containers
+
+### VSCode Remote
+https://code.visualstudio.com/docs/remote/remote-overview
+
 ## Vi derivatives
 
 ### Copilot + nvim
