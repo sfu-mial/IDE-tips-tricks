@@ -1,5 +1,9 @@
-# IDE-tips-tricks
-Gist to collect urls/tips/tricks/configs for setup of IDEs (VSCode, vi, neovim, cgpt, copilot, ...)
+# Workflow tips and ricks
+Gist to collect urls/tips/tricks/configs for setup of IDEs/Workflows (VSCode, vi, neovim, cgpt, copilot, ...)
+
+## Get free stuff
+### Confirm Github Education Package (free premium stuff, github pro, copilot pro, Digital ocean, .........)
+https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/github-global-campus-for-students/apply-to-github-global-campus-as-a-student
 
 ## VSCode
 Try VSCode Insider build
